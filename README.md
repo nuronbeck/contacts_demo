@@ -1,7 +1,3 @@
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/80px-Telegram_2019_Logo.svg.png" width="80">
-</p>
-
 ## PROJECT TECHNOLOGIES
 
 - [Vue JS](https://vuejs.org/).
@@ -31,7 +27,7 @@ npm install
 
 ## USE 2 TERMINALS:
 
-- RUN CLIENT APP
+- RUN FAKE SERVER API
 
 ```
 json-server db.json
@@ -42,3 +38,7 @@ json-server db.json
 ```
 npm run serve
 ```
+
+## OPEN THE APP:
+
+[Json-server](http://localhost:8080/)
