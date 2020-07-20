@@ -41,4 +41,4 @@ npm run serve
 
 ## OPEN THE APP:
 
-[Json-server](http://localhost:8080/)
+[http://localhost:8080/](http://localhost:8080/)
