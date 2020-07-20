@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id_user": 1,
+      "email": "user1@example.com",
+      "password": "Ab1234567890",
+      "token": "vhkzyfaifwjbsdjfhasgfkyawgefuawefhbjfvjasgfasdgfhasjkdbfkasgfhkgfuiyqwieweoriopwi1p2i33i4tu7"
+    },
+    {
+      "id_user": 2,
+      "email": "user2@example.com",
+      "password": "Ab1234567890",
+      "token": "bnxcbvhuifwyeirwexzoxciwe7ryweurfejfvdfhgduiywerywuoifdsdjfhsgdystxyzjhhbcdwo56879234rfdsyusdxch"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 2,
+      "icon_color": "#ade77d",
+      "lastname": "Liteman",
+      "name": "Michael",
+      "phone": "+13669764487",
+      "email": "",
+      "user_id": 1
+    },
+    {
+      "id": 3,
+      "icon_color": "#2221f1",
+      "lastname": "Habib",
+      "name": "Nurmugamedov",
+      "phone": "+796555888441",
+      "email": "khabib@reebook.ru",
+      "user_id": 2
+    },
+    {
+      "id": 4,
+      "icon_color": "#dd7838",
+      "lastname": "",
+      "name": "Julia",
+      "phone": "+396514898789",
+      "email": "",
+      "user_id": 1
+    },
+    {
+      "id": 5,
+      "icon_color": "#1c8317",
+      "lastname": "You",
+      "name": "Evan",
+      "phone": "+396514898789",
+      "email": "vue_creator@vuejs.org",
+      "user_id": 1
+    },
+    {
+      "icon_color": "#b8bc15",
+      "lastname": "Ismoilov",
+      "name": "Oybek",
+      "phone": "+998954564654",
+      "email": "asdasd@sdasd.asd",
+      "token": "vhkzyfaifwjbsdjfhasgfkyawgefuawefhbjfvjasgfasdgfhasjkdbfkasgfhkgfuiyqwieweoriopwi1p2i33i4tu7",
+      "id": 6
+    },
+    {
+      "icon_color": "#d2d28a",
+      "lastname": "Jack",
+      "name": "Vorobey",
+      "phone": "+36984159658",
+      "email": "jacking@yahoo.com",
+      "user_id": 2,
+      "id": 7
+    }
+  ]
+}
