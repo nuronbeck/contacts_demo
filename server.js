@@ -1,4 +1,5 @@
 const express = require('express')
+const jsonServer = require('json-server');
 const serveStatic = require('serve-static')
 const path = require('path')
 
@@ -11,6 +12,8 @@ app.use('/', serveStatic(path.join(__dirname, '/dist')))
 app.get(/.*/, function (req, res) {
 	res.sendFile(path.join(__dirname, '/dist/index.html'))
 })
+
+app.use('/api', jsonServer.router('db.json'));
 
 const port = process.env.PORT || 8080
 app.listen(port)
