@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "concurrently \"json-server db.json\" \"node server.js\""
+    "start": "concurrently \"json-server --watch db.json\" \"node server.js\""
   },
   "dependencies": {
     "axios": "^0.19.2",
