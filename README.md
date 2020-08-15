@@ -3,6 +3,11 @@
 - [Vue JS](https://vuejs.org/).
 - [Json-server](https://www.npmjs.com/package/json-server/).
 
+<a href="https://contacts-demo-vue.herokuapp.com/">DEMO</a>
+<p align="left">
+  <img src="./demo/rec.gif">
+</p>
+
 ## DEVELOPERS INFO
 
 - [Nurbek Ismoilov <dataproger@gmail.com> <nuronbeck@gmail.com>](https://facebook.com/nuronbeck/).
